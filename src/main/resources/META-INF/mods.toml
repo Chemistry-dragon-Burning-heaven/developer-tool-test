@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT License"
+
+[[mods]]
+modId="developer_tool"
+version="0.0.1"
+displayName="Developer Tool"
+credits="null"
+displayURL="https://mcreator.net"
+authors="HLFT"
+description='''
+RPG Mod
+'''
+
+[[dependencies.developer_tool]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
