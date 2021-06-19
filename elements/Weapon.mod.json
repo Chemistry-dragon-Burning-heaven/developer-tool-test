@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Weapon",
+    "icon": {
+      "value": "CUSTOM:GoldKatana"
+    },
+    "showSearch": false
+  }
+}

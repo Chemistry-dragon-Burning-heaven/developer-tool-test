@@ -1,1 +1,12 @@
-{}
+{
+  "itemGroup.tabcoin": "Coin",
+  "item.developer_tool.copper_ktana": "Copper Ktana",
+  "item.developer_tool.silver_katana": "Silver Katana",
+  "item.developer_tool.gold_katana": "Gold Katana",
+  "item.developer_tool.iron_coin": "Iron Coin",
+  "item.developer_tool.copper_coin": "Copper Coin",
+  "item.developer_tool.iron_katana": "Iron Katana",
+  "item.developer_tool.gold_coin": "Gold Coin",
+  "item.developer_tool.silver_coin": "Silver Coin",
+  "itemGroup.tabweapon": "Weapon"
+}

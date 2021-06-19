@@ -1,22 +1,155 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "GoldCoin",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_coin",
+      "path": "~/Coin"
+    },
+    {
+      "name": "IronCoin",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_coin",
+      "path": "~/Coin"
+    },
+    {
+      "name": "Coin",
+      "type": "tab",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coin",
+      "path": "~/Coin"
+    },
+    {
+      "name": "CopperCoin",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_coin",
+      "path": "~/Coin"
+    },
+    {
+      "name": "SilverCoin",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_coin",
+      "path": "~/Coin"
+    },
+    {
+      "name": "IronKatana",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_katana",
+      "path": "~/Katana"
+    },
+    {
+      "name": "GoldKatana",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_katana",
+      "path": "~/Katana"
+    },
+    {
+      "name": "Weapon",
+      "type": "tab",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "weapon",
+      "path": "~/Katana"
+    },
+    {
+      "name": "CopperKtana",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ktana",
+      "path": "~/Katana"
+    },
+    {
+      "name": "SilverKatana",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_katana",
+      "path": "~/Katana"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "itemGroup.tabcoin": "Coin",
+      "item.developer_tool.copper_ktana": "Copper Ktana",
+      "item.developer_tool.silver_katana": "Silver Katana",
+      "item.developer_tool.gold_katana": "Gold Katana",
+      "item.developer_tool.iron_coin": "Iron Coin",
+      "item.developer_tool.copper_coin": "Copper Coin",
+      "item.developer_tool.iron_katana": "Iron Katana",
+      "item.developer_tool.gold_coin": "Gold Coin",
+      "item.developer_tool.silver_coin": "Silver Coin",
+      "itemGroup.tabweapon": "Weapon"
+    },
+    "zh_cn": {
+      "itemGroup.tabcoin": "ªı±“",
+      "item.developer_tool.copper_ktana": "Õ≠Œ‰ øµ∂",
+      "item.developer_tool.silver_katana": "“¯Œ‰ øµ∂",
+      "item.developer_tool.gold_katana": "ΩŒ‰ øµ∂",
+      "item.developer_tool.iron_coin": "Ã˙±“",
+      "item.developer_tool.copper_coin": "Õ≠±“",
+      "item.developer_tool.iron_katana": "Ã˙Œ‰ øµ∂",
+      "item.developer_tool.gold_coin": "Ω±“",
+      "item.developer_tool.silver_coin": "“¯±“",
+      "itemGroup.tabweapon": "Œ‰∆˜"
+    }
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "Coin",
+        "children": []
+      },
+      {
+        "name": "Katana",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "developer_tool",
     "modName": "Developer Tool",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "RPG Mod",
-    "author": "HLFT",
-    "websiteURL": "bull",
+    "author": "HLFT,TangTian",
+    "websiteURL": "https://mcreator.net",
     "license": "MIT License",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,

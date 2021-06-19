@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "developer_tool:items/copper_katana"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "itemGroup.tabcoin": "货币",
+  "item.developer_tool.copper_ktana": "铜武士刀",
+  "item.developer_tool.silver_katana": "银武士刀",
+  "item.developer_tool.gold_katana": "金武士刀",
+  "item.developer_tool.iron_coin": "铁币",
+  "item.developer_tool.copper_coin": "铜币",
+  "item.developer_tool.iron_katana": "铁武士刀",
+  "item.developer_tool.gold_coin": "金币",
+  "item.developer_tool.silver_coin": "银币",
+  "itemGroup.tabweapon": "武器"
+}

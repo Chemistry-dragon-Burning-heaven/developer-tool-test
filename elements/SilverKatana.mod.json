@@ -1,0 +1,27 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "silver_katana",
+    "customModelName": "Normal",
+    "name": "Silver Katana",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Weapon"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 4.0,
+    "attackSpeed": 2.0,
+    "enchantability": 20,
+    "damageVsEntity": 2.5,
+    "usageCount": 260,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

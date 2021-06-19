@@ -4,11 +4,11 @@ license="MIT License"
 
 [[mods]]
 modId="developer_tool"
-version="0.0.1"
+version="0.0.2"
 displayName="Developer Tool"
 credits="null"
 displayURL="https://mcreator.net"
-authors="HLFT"
+authors="HLFT,TangTian"
 description='''
 RPG Mod
 '''
