@@ -100,6 +100,34 @@
       "ids": {},
       "registry_name": "silver_katana",
       "path": "~/Katana"
+    },
+    {
+      "name": "Katana",
+      "type": "tag",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "katana",
+      "path": "~/Tag"
+    },
+    {
+      "name": "KatanaHandler",
+      "type": "procedure",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "katana_handler",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Handler"
     }
   ],
   "variable_elements": [],
@@ -140,13 +168,21 @@
       {
         "name": "Katana",
         "children": []
+      },
+      {
+        "name": "Handler",
+        "children": []
+      },
+      {
+        "name": "Tag",
+        "children": []
       }
     ]
   },
   "workspaceSettings": {
     "modid": "developer_tool",
     "modName": "Developer Tool",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "RPG Mod",
     "author": "HLFT,TangTian",
     "websiteURL": "https://mcreator.net",

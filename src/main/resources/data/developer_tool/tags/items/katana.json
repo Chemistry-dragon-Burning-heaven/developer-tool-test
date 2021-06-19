@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "developer_tool:iron_katana",
+    "developer_tool:gold_katana",
+    "developer_tool:copper_ktana",
+    "developer_tool:silver_katana"
+  ]
+}
